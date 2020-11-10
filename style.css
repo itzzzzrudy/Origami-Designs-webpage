@@ -1,0 +1,10 @@
+body{
+    background-color:rgb(156, 240, 252);
+}
+h1{
+    background-color: springgreen;
+}
+img{
+ border-width: 2px;   
+ border:solid;
+}
